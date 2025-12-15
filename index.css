@@ -178,7 +178,7 @@ input{
     color:darkturquoise;
     border-radius:15px;
 }
-.humdity-detail img{
+.humidity-detail img{
     width: 60px;
 }
 
@@ -213,6 +213,7 @@ input{
 .wind-detail img{
     width: 60px;
 }
+
 
 
 
