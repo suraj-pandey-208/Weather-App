@@ -8,7 +8,7 @@ background-image: url("/images/l.jpg");
 /* background: rgb(0,0,33); */
 animation:myAnimation 70s  ease-in infinite;
 background-size: auto;
-background-repeat: -x;
+background-repeat: repeat-x;
 
 }
 @keyframes myAnimation {
@@ -213,5 +213,6 @@ input{
 .wind-detail img{
     width: 60px;
 }
+
 
 
